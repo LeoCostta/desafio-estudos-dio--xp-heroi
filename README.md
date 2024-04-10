@@ -1,4 +1,4 @@
-Este projeto em JavaScript é um gerador de heróis que cria um nome e uma quantidade de experiência (XP) aleatória para um herói.
+Este projeto em JavaScript é um gerador de heróis que cria um nome e uma quantidade de experiência (XP) aleatória para um herói, sendo este um desafio de codigo para as aulas de programação da DIO
 
 O projeto começa com a definição de um nome para o herói. Em seguida, é gerada uma quantidade de XP aleatória para o herói, variando de 1 a 250000.
 
